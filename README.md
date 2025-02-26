@@ -1,6 +1,10 @@
 
 # Multi-Agents AI System from Scratch
 
+![](1.png)
+![](2.png)
+![](3.png)
+
 ![AI Agents from Scratch](logo.png)
 
 ## Table of Contents

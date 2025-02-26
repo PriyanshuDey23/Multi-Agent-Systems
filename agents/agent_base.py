@@ -19,7 +19,7 @@ class AgentBase(ABC):
     Base class for AI agents using Google Gemini.
     """
 
-    def __init__(self, name, model="gemini-1.5-flash-8b", max_retries=3, verbose=True):
+    def __init__(self, name, model="gemini-2.0-flash", max_retries=3, verbose=True):
         self.name = name
         self.model = model
         self.max_retries = max_retries
